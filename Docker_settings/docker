@@ -1,0 +1,1 @@
+DOCKER_OPTS="--bip=172.17.42.1/16 --dns=172.17.42.1 --storage-driver=devicemapper  --storage-opt dm.basesize=20G

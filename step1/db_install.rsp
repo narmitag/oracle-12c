@@ -470,3 +470,4 @@ PROXY_PWD=
 # Example    : COLLECTOR_SUPPORTHUB_URL=https://orasupporthub.company.com:8080/
 #------------------------------------------------------------------------------
 COLLECTOR_SUPPORTHUB_URL=
+oracle.installer.autoupdates.option=
